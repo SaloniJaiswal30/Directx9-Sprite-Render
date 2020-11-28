@@ -1,0 +1,6 @@
+﻿  directx9proj.cpp
+  DuplicationManager.cpp
+  Generating Code...
+C:\Users\Test\Desktop\Saloni\directx9_sprite\directx9proj\directx9proj.cpp(78): warning C4715:  'wWinMain': not all control paths return a value
+C:\Users\Test\Desktop\Saloni\directx9_sprite\directx9proj\directx9proj.cpp(91): warning C4715:  'WndProc': not all control paths return a value
+  directx9proj.vcxproj -> C:\Users\Test\Desktop\Saloni\directx9_sprite\Debug\directx9proj.exe
